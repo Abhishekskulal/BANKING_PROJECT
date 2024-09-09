@@ -1,11 +1,9 @@
 Banking Project in Java
 =======================
 Project Overview
-''''''''''''''''
 This project simulates a simple banking system where users can create accounts in two types of banks: SBI and HDFC. The project incorporates essential banking functionalities like account number and pin generation, deposit, withdrawal, pin reset, and validation. Additionally, it demonstrates the use of Java concepts such as interfaces, factory methods, generics, and switch-case statements.
 
 Features
---------
 Account Number and Pin Generation: Automatically generate unique account numbers and pins for each customer.
 Deposit & Withdrawal: Manage basic transactions like depositing and withdrawing money.
 Pin Reset: Securely reset the pin after validation.
