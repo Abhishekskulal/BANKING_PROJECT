@@ -39,9 +39,13 @@ Future Enhancements
 Add a user interface to make the banking system more interactive.
 Introduce additional bank services such as loans, interest calculation, and account statements.
 Integrate the project with a database for persistent data storage.
+
 Technologies Used
+-----------------
 Java
 Object-Oriented Programming (OOP) principles
 Factory Design Pattern
+
 Contribution
+------------
 Feel free to fork this repository, create a new branch, and submit a pull request with your improvements.
