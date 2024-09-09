@@ -28,7 +28,7 @@ Java Development Kit (JDK) 8 or higher.
 A Java IDE like IntelliJ IDEA, Eclipse, or Visual Studio Code.
 Basic understanding of Java programming.
 Installation
-1. Clone the repository: git clone https://github.com/yourusername/banking-project.git
+1. Clone the repository: git clone https://github.com/Abhishekskulal/BANKING_PROJECT.git
 2. Open the project in your preferred IDE.
 3. Compile and run the project: javac Main.java  java Main
 
