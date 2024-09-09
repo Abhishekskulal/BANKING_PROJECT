@@ -21,3 +21,27 @@ Prerequisites
 Java Development Kit (JDK) 8 or higher.
 A Java IDE like IntelliJ IDEA, Eclipse, or Visual Studio Code.
 Basic understanding of Java programming.
+Installation
+1. Clone the repository: git clone https://github.com/yourusername/banking-project.git
+2. Open the project in your preferred IDE.
+3. Compile and run the project: javac Main.java  java Main
+
+How It Works
+Users can select a bank (SBI or HDFC) using a factory method.
+Once a bank is selected, users can perform various operations like:
+Depositing money
+Withdrawing money
+Resetting the pin
+Validating account credentials
+All account-related functionalities are managed directly within the Bank interface and its implementations (SBI and HDFC).
+   
+Future Enhancements
+Add a user interface to make the banking system more interactive.
+Introduce additional bank services such as loans, interest calculation, and account statements.
+Integrate the project with a database for persistent data storage.
+Technologies Used
+Java
+Object-Oriented Programming (OOP) principles
+Factory Design Pattern
+Contribution
+Feel free to fork this repository, create a new branch, and submit a pull request with your improvements.
